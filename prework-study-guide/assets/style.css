@@ -9,18 +9,12 @@ footer {
     background-color: blue;
     color: white;
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> bd8bfeb9d0c44d244dc50fd270e8342b7551750a
 h1,
 h2 {
     text-align: center;
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> bd8bfeb9d0c44d244dc50fd270e8342b7551750a
 img {
     display: block;
     height: 50px;
@@ -28,25 +22,24 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> bd8bfeb9d0c44d244dc50fd270e8342b7551750a
 ul {
     padding-left: 40px;
     font-size: 20px;
 }
-<<<<<<< HEAD
-p {
-    text-align: center;
-    font-size: 30px;
-  }
-=======
 
 p {
     text-align: center;
     font-size: 30px;
   }
+
+
+
+p {
+    text-align: center;
+    font-size: 30px;
+  }
+
   .card {
     width: 80%;
     margin: 40px auto;
@@ -54,4 +47,3 @@ p {
     box-shadow: 5px 10px #888888;
   }
   
->>>>>>> bd8bfeb9d0c44d244dc50fd270e8342b7551750a
